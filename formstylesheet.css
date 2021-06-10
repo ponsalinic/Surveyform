@@ -1,0 +1,76 @@
+
+.checked{
+    color:pink;
+  }
+  
+  table{
+    text-align:center;
+    
+  }
+  .items{
+    background-color:lightgrey;
+  }
+   input[type='radio'] { 
+       transform: scale(1.4); 
+   }
+  
+  .form{
+  margin:5px;
+  border:1px solid black;
+  }
+  .form {
+    
+    width: 58%;
+}
+  
+  
+  span.name1 {
+    color:red;
+  
+  }
+  span.name2{
+    margin-top: 10px;
+  }
+  span.name3 {
+    
+      margin-left: 150px;
+  }
+  span.email1{
+    color:red;
+  }
+  span.experience1{
+    color:red;
+  }
+  span.satisfied1 {
+      color: red;
+  }
+  
+  span.like1 {
+      color: red;
+  }
+  
+ .input-icons i {
+  position: absolute;
+margin-left: 160px;
+
+}
+ 
+.input-icons {
+   width: 100%;
+   margin-bottom: 10px;
+}
+ 
+
+ 
+.input-field {
+   width: 100%;
+   padding: 10px;
+   text-align: center;
+}
+
+i.fa.fa-exclamation-circle {
+padding: 1px;
+}
+.outerborder{
+  padding:5px;
+}
